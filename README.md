@@ -7,4 +7,4 @@
    
   -> GISAID data: https://gisaid.org/
 
-  -> To view the contributors of each sequence with details such as accession number, Virus name, Collection date, Originating Lab and Submitting Lab, and the list of Authors, visit
+  -> To view the contributors of each sequence with details such as accession number, Virus name, Collection date, Originating Lab and Submitting Lab, and the list of Authors, visit "LINK"
