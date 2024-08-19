@@ -1,4 +1,4 @@
-ID	collection_date_gsheet	yale_n1_ge_ml	lineage	vax_1_date	vax_2_date	booster_1_date	booster_2_date
+ID	collection_date	yale_n1_ge_ml	lineage	vax_1_date	vax_2_date	booster_1_date	booster_2_date
 Yale-10314	2021-09-17	22989267.69	AY.3	2021-02-15	2021-03-15	2021-11-17	NA
 Yale-10316	2021-09-17	3570838.697	AY.4	2021-02-08	2021-03-03	NA	NA
 Yale-10318	2021-09-16	996375.3341	B.1.617.2	2021-05-24	2023-03-10	2021-12-03	NA
