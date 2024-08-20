@@ -6,7 +6,8 @@
   -> Clinical metadata: metadata.csv (variables: "ID" relate to genome sequence; 
   "collection_data_gsheet, vax_1_date, vax_2_date, booster_1_date, booster_2_date" calculate vaccination status;
   "lineage" define the variants of concern;
-  "yale_n1_ge_ml" is viral copies).
+  "yale_n1_ge_ml" is viral copies;
+  "age_group" gives age groups).
    
   -> GISAID data: https://gisaid.org/
 
